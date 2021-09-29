@@ -17,7 +17,7 @@
         android:name="com.example.artbooktesting.view.ArtDetailsFragment"
         android:label="ArtDetailsFragment" >
         <action
-            android:id="@+id/action_artDetailsFragment_to_imageApiFragment"
+            android:id="@+id/action_artDetailsFragment_to_fimageApiFragment"
             app:destination="@id/imageApiFragment" />
     </fragment>
     <fragment
